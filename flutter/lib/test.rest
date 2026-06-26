@@ -1,0 +1,8 @@
+POST http://127.0.0.1:80/scripts/php/getJogos.php
+Content-Type: application/json
+
+{
+  "username": "root",
+  "password": "rootpass",
+  "IDUtilizador": 1
+}
