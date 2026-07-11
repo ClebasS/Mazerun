@@ -397,7 +397,7 @@ This approach improves security while enforcing the game rules inside the databa
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/yourusername/Mazerun.git
+git clone https://github.com/ClebasS/Mazerun.git
 ```
 
 2. Configure MongoDB.
